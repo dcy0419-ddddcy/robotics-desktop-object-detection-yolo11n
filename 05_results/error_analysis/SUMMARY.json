@@ -1,0 +1,25 @@
+{
+  "iou_threshold": 0.5,
+  "confidence_threshold": 0.25,
+  "ground_truth": {
+    "mouse": 43,
+    "keyboard": 66,
+    "laptop": 61,
+    "headphones": 43
+  },
+  "matched": {
+    "mouse": 32,
+    "keyboard": 58,
+    "laptop": 50,
+    "headphones": 34
+  },
+  "recognition_rate": {
+    "mouse": 0.7442,
+    "keyboard": 0.8788,
+    "laptop": 0.8197,
+    "headphones": 0.7907
+  },
+  "overall_recognition_rate": 0.8169,
+  "images_with_errors": 51,
+  "saved_typical_errors": 12
+}

@@ -1,0 +1,36 @@
+{
+  "classes": [
+    "mouse",
+    "keyboard",
+    "laptop",
+    "headphones"
+  ],
+  "images": {
+    "test": 123,
+    "train": 1047,
+    "val": 173
+  },
+  "boxes": {
+    "train": {
+      "mouse": 284,
+      "keyboard": 430,
+      "laptop": 411,
+      "headphones": 275
+    },
+    "val": {
+      "mouse": 61,
+      "keyboard": 77,
+      "laptop": 72,
+      "headphones": 55
+    },
+    "test": {
+      "mouse": 43,
+      "keyboard": 66,
+      "laptop": 61,
+      "headphones": 43
+    }
+  },
+  "total_images": 1343,
+  "total_boxes": 1878,
+  "exact_duplicates": 0
+}
